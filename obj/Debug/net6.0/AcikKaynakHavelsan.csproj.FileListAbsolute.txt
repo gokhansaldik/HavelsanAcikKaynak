@@ -1,0 +1,15 @@
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\bin\Debug\net6.0\AcikKaynakHavelsan.exe
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\bin\Debug\net6.0\AcikKaynakHavelsan.deps.json
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\bin\Debug\net6.0\AcikKaynakHavelsan.runtimeconfig.json
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\bin\Debug\net6.0\AcikKaynakHavelsan.dll
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\bin\Debug\net6.0\AcikKaynakHavelsan.pdb
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.AssemblyInfo.cs
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.dll
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\refint\AcikKaynakHavelsan.dll
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.pdb
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\AcikKaynakHavelsan.genruntimeconfig.cache
+C:\Users\test\source\repos\AcikKaynakHavelsan\AcikKaynakHavelsan\obj\Debug\net6.0\ref\AcikKaynakHavelsan.dll
